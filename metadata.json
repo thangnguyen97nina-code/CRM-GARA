@@ -1,0 +1,7 @@
+{
+  "name": "Quản Lý Garage Thông Minh - PRO",
+  "description": "Giải pháp quản lý tiếp nhận, thi công và tài chính chuyên nghiệp dành cho Garage - Thương hiệu Bên Trong Gara.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
